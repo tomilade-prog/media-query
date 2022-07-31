@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+#medium-box{
+    position: absolute;
+    width: 800px;
+    height: 400px;
+    background-color: pink;
+    right:200px;
+    margin-top: 100px;
+
+}
+#small-box{
+    position:relative;
+    right:300px;
+    width:50%;
+    height:30px;
+    background-color: purple;
+    border-radius: 5px;
+    margin-top:20px;
+    float:right;
+}
+#text{
+    color: white;
+    position: relative;
+    float: left;
+    font-size: small;
+    width:40%;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+#large-box{
+    position:relative;
+    right: 300px;
+    width: 350px;
+    height:300px;
+    margin-top: 100px;
+    float: right;
+}
